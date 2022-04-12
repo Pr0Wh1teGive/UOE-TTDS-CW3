@@ -1,0 +1,55 @@
+
+> ttds_news_search@0.1.0 start
+> react-scripts start
+
+(node:182245) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:182245) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view ttds_news_search in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://10.154.0.3:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+assets by path static/ 3.74 MiB
+  asset static/js/bundle.js 3.51 MiB [emitted] (name: main) 1 related asset
+  asset static/media/background.498a5a4b6fddc3346536.jpg 226 KiB [emitted] [immutable] [from: public/background.jpg] (auxiliary name: main)
+  asset static/js/node_modules_web-vitals_dist_web-vitals_js.chunk.js 6.94 KiB [emitted] 1 related asset
+asset index.html 1.67 KiB [emitted]
+asset asset-manifest.json 546 bytes [emitted]
+cached modules 3.95 MiB (javascript) 226 KiB (asset) [cached] 1154 modules
+runtime modules 32.6 KiB 17 modules
+webpack 5.70.0 compiled successfully in 4150 ms
+
+> ttds_news_search@0.1.0 start
+> react-scripts start
+
+(node:187970) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:187970) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view ttds_news_search in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://10.154.0.3:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+assets by path static/ 3.74 MiB
+  asset static/js/bundle.js 3.51 MiB [emitted] (name: main) 1 related asset
+  asset static/media/background.498a5a4b6fddc3346536.jpg 226 KiB [emitted] [immutable] [from: public/background.jpg] (auxiliary name: main)
+  asset static/js/node_modules_web-vitals_dist_web-vitals_js.chunk.js 6.94 KiB [emitted] 1 related asset
+asset index.html 1.67 KiB [emitted]
+asset asset-manifest.json 546 bytes [emitted]
+cached modules 3.95 MiB (javascript) 226 KiB (asset) 32.6 KiB (runtime) [cached] 1171 modules
+webpack 5.70.0 compiled successfully in 4036 ms

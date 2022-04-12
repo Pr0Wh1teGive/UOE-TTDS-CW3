@@ -1,0 +1,28 @@
+.InputFromTo .DayPicker-Day--selected:not(.DayPicker-Day--start):not(.DayPicker-Day--end):not(.DayPicker-Day--outside) {
+    background-color: #f0f8ff !important;
+    color: dodgerblue;
+}
+.InputFromTo .DayPicker-Day {
+    border-radius: 0 !important;
+}
+.InputFromTo .DayPicker-Day--start {
+    border-top-left-radius: 50% !important;
+    border-bottom-left-radius: 50% !important;
+}
+.InputFromTo .DayPicker-Day--end {
+    border-top-right-radius: 50% !important;
+    border-bottom-right-radius: 50% !important;
+}
+.InputFromTo .DayPickerInput-Overlay {
+    z-index: 99;
+    width: 550px;
+}
+.InputFromTo-to .DayPickerInput-Overlay {
+    z-index: 99;
+    width: 550px;
+}
+
+.InputFromTo .DayPickerInput {
+    margin-bottom: 5px;
+    font-family: 'Roboto', 'Arial', 'Helvetica', sans-serif;
+}

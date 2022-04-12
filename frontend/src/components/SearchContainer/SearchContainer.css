@@ -1,0 +1,37 @@
+.searchContainer {
+    width: 100%;
+    height: 550px;
+    padding-top: 50px;
+    background: url("/public/background.jpg") center center / cover no-repeat;
+}
+
+.searchContainer_container {
+    height: 500px;
+    width: 1000px;
+    box-sizing: border-box;
+    padding: 50px 90px;
+    margin: 0 auto;
+    display: block;
+}
+
+.searchContainer_title {
+    color: #fff;
+    max-width: 400px;
+    padding-bottom: 30px;
+}
+
+.searchContainer_title-heading {
+    margin: 0;
+    font-size: 36px;
+    line-height: 40px;
+    font-family: 'Roboto', 'Georgia', 'Times', serif;
+    font-weight: 400;
+}
+
+.searchContainer_title-description {
+    margin: 16px 0 0;
+    font-size: 18px;
+    font-family: 'Roboto', 'Arial', 'Helvetica', sans-serif;
+    font-weight: 400;
+    line-height: 24px;
+}

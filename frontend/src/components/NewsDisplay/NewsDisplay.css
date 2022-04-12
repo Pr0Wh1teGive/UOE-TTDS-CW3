@@ -1,0 +1,10 @@
+.search_results_text {
+    font-size: 25px;
+    font-family: 'Roboto', 'Arial', 'Helvetica', sans-serif;
+    color: #596a37;
+    margin: 60px 0 20px 0;
+}
+
+.display_bottom {
+    height: 100px;
+}

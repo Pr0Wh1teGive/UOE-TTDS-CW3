@@ -1,0 +1,24 @@
+.button {
+    height: 50px;
+    border: 0;
+    transition: all 200ms ease-out;
+    cursor: pointer;
+}
+
+.button_type_text {
+    padding: 19px;
+    width: 150px;
+    height: 48px;
+    line-height: 10px;
+    margin: 18px 0 18px 16px;
+    border-radius: 100px;
+    font-family: 'Roboto', 'Arial', 'Helvetica', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.button_type_text:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(0, 0, 0, .5),
+    0 0 0 4px rgba(255, 255, 255, .8);
+}
